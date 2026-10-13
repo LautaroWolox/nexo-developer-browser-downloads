@@ -6,7 +6,9 @@ de versión, **no incluye el código fuente de NEXO**.
 ## Estado
 
 **Beta en revisión de seguridad; todavía no hay una versión pública aprobada.**
-Los instaladores solo se incorporarán a [Releases] cuando finalice la revisión.
+
+La versión 0.6.0 está cargada como **Release en borrador** y no puede descargarse públicamente todavía.
+Los instaladores solo se incorporarán a [Releases](https://github.com/LautaroWolox/nexo-developer-browser-downloads/releases) cuando finalice la revisión.
 
 ## Plataformas previstas
 
