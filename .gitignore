@@ -1,0 +1,22 @@
+# Repo de descargas: solo documentación pública. No subir fuentes ni ejecutables.
+*.deb
+*.AppImage
+*.exe
+*.dmg
+*.zip
+*.tar*
+*.js
+*.ts
+*.vue
+*.cjs
+*.map
+*.env
+node_modules/
+dist/
+build/
+release/
+src/
+electron/
+*.pem
+*.key
+.DS_Store
